@@ -1,0 +1,17 @@
+[
+{
+  "modid": "ic2reactorpatch",
+  "name": "IC2ReactorPatch",
+  "description": "Experimental, Reduce reactor lag",
+  "version": "1.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sjcl"],
+  "credits": "ASM lib from OpenMods",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["IC2"],
+  "dependencies": ["IC2"]
+}
+]
